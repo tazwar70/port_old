@@ -13,7 +13,7 @@
   --body_color:rgb(68, 68, 68);/* #444444 */
   --link_color: rgb(52, 183, 167);/* #34b7a7 */
   --link_color_hover: rgb(81, 205, 190);/* #51cdbe */
-  --header_bg:rgb(0, 0, 0);
+  --header_bg:#333;
   --header_logo_a:white;
   --nav_menu_a:white;
 }
@@ -1274,11 +1274,13 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #e9e8e6;
+  background: var(--header_bg);
   padding: 30px 0;
-  color: #222222;
+  color: white;
   font-size: 14px;
   text-align: center;
+  align-content: center;
+  display: block;
 }
 
 #footer .credits {
@@ -1288,4 +1290,15 @@ section {
 
 #footer .credits a {
   color: #34b7a7;
+}
+
+#footer ul{
+  list-style: none;
+}
+#footer .list-inline-item{
+  font-size: 1.5rem;
+  padding: 0.8rem;
+}
+#footer .copyright{
+  font-size: 1.2rem;
 }
