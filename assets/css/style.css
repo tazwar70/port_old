@@ -16,6 +16,7 @@
   --header_bg:#333;
   --header_logo_a:white;
   --nav_menu_a:white;
+  --resume-title:#18271d;
 }
 
 body {
@@ -750,10 +751,10 @@ section {
 --------------------------------------------------------------*/
 .resume .resume-title {
   font-size: 26px;
-  font-weight: 400;
+  font-weight: bold;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #222222;
+  color: var(--resume-title);
 }
 
 .resume .resume-item {
