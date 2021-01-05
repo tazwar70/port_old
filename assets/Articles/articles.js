@@ -36,22 +36,25 @@ function displayPortfolio(array) {
             document.getElementById('article_section').innerHTML +=
                 `
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-    <div class="portfolio-wrap">
-        <img src="${portfolio[i].link_to_screenshot}" class="img-fluid" alt="">
-        <div class="portfolio-info">
-            <h4>${portfolio[i].name}</h4>
-            <p>${portfolio[i].category_name}</p>
-            <div class="portfolio-links">
-                <a href="${portfolio[i].link_to_screenshot}" data-gall="portfolioGallery"
-                    class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="${portfolio[i].link_to_source}" data-gall="portfolioDetailsGallery"
-                    data-vbtype="iframe" class="venobox" title="Portfolio Details"><i
-                        class="bx bx-link"></i></a>
-            </div>
-        </div>
-    </div>
-</div>
+                <!-- ${portfolio[i].category} -->
+                <div class="col-lg-4 col-md-6 portfolio-item filter-${portfolio[i].category_name}">
+                    <div class="portfolio-wrap">
+                        <img src="${portfolio[i].link_to_screenshot}" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>${portfolio[i].name}</h4>
+                            <p>${portfolio[i].category}</p>
+                            <p>${portfolio[i].description}</p>
+                            <div class="portfolio-links">
+                                <a href="${portfolio[i].link_to_screenshot}" data-gall="portfolioGallery"
+                                    class="venobox" title="Ghost Recon Wildlands"><i class="bx bx-plus"></i></a>
+                                <a href="/portfolio-details.html" data-gall="portfolioDetailsGallery"
+                                    data-vbtype="iframe" class="venobox" title="Portfolio Details"><i
+                                        class="bx bx-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ${portfolio[i].category} -->
 
 
 
