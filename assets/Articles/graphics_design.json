@@ -1,81 +1,172 @@
-[{
+[
+  {
     "name": "Corviknight",
     "category": "Digital Art",
-    "description": "A fan made digital artwork",
+    "description": "A fan made digital artwork.",
     "deviantart_link": "https://www.deviantart.com/tajwarscribbles/art/Corviknight-801040580",
     "category_name": "digital-art",
-    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Corviknight.png"
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Corviknight.png",
+    "": "",
+    "__1": ""
   },
   {
     "name": "Darkrai",
     "category": "Digital Art",
-    "description": "A fan made digital artwork",
+    "description": "A fan made digital artwork.",
     "deviantart_link": "https://www.deviantart.com/tajwarscribbles/art/Darkrai-800921900",
     "category_name": "digital-art",
-    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/darkrai.png"
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/darkrai.png",
+    "": "",
+    "__1": ""
   },
   {
     "name": "Flygon",
     "category": "Digital Art",
-    "description": "A fan made digital artwork",
+    "description": "A fan made digital artwork.",
     "deviantart_link": "https://www.deviantart.com/tajwarscribbles/art/Flygon-801039844",
     "category_name": "digital-art",
-    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/flygon.png"
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/flygon.png",
+    "": "",
+    "__1": ""
   },
   {
     "name": "Jolteon",
     "category": "Digital Art",
-    "description": "A fan made digital artwork",
+    "description": "A fan made digital artwork.",
     "deviantart_link": "https://www.deviantart.com/tajwarscribbles/art/Jolteon-792295315",
     "category_name": "digital-art",
-    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Jolteon.jpg"
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Jolteon.jpg",
+    "": "",
+    "__1": ""
   },
   {
     "name": "Lucario",
     "category": "Digital Art",
-    "description": "A fan made digital artwork",
+    "description": "A fan made digital artwork.",
     "deviantart_link": "https://www.deviantart.com/tajwarscribbles/art/Lucario-797353412",
     "category_name": "digital-art",
-    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/lucario.png"
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/lucario.png",
+    "": "",
+    "__1": ""
   },
   {
     "name": "Mewtwo",
     "category": "Digital Art",
-    "description": "A fan made digital artwork",
+    "description": "A fan made digital artwork.",
     "deviantart_link": "https://www.deviantart.com/tajwarscribbles/art/Mewtwo-792178651",
     "category_name": "digital-art",
-    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Mewtwo.jpg"
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Mewtwo.jpg",
+    "": "",
+    "__1": ""
   },
   {
     "name": "Mewtwo - alternate",
     "category": "Digital Art",
-    "description": "A fan made digital artwork",
+    "description": "A fan made digital artwork.",
     "deviantart_link": "https://www.deviantart.com/tajwarscribbles/art/Shadow-Mewtwo-792414603",
     "category_name": "digital-art",
-    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Mewtwo_2.jpg"
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Mewtwo_2.jpg",
+    "": "",
+    "__1": ""
   },
   {
     "name": "Pikachu",
     "category": "Digital Art",
-    "description": "A fan made digital artwork",
+    "description": "A fan made digital artwork.",
     "deviantart_link": "https://www.deviantart.com/tajwarscribbles/art/Pikachu-797353257",
     "category_name": "digital-art",
-    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Pikachu.jpg"
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Pikachu.jpg",
+    "": "",
+    "__1": ""
   },
   {
     "name": "Squidward",
     "category": "Digital Art",
-    "description": "A fan made digital artwork",
+    "description": "A fan made digital artwork.",
     "deviantart_link": "https://www.deviantart.com/tajwarscribbles/art/Squidward-866269407",
     "category_name": "digital-art",
-    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Squidward.jpg"
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Squidward.jpg",
+    "": "",
+    "__1": ""
   },
   {
     "name": "Vegeta",
     "category": "Digital Art",
-    "description": "A fan made digital artwork",
+    "description": "A fan made digital artwork.",
     "deviantart_link": "https://www.deviantart.com/tajwarscribbles/art/Vegeta-Megawatts-792153060",
     "category_name": "digital-art",
-    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Vegeta_Megawatts.jpg"
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Digital Art/Vegeta_Megawatts.jpg",
+    "": "",
+    "__1": ""
+  },
+  {
+    "name": "Finalized Newsletter",
+    "category": "Digital Marketting Post",
+    "description": "Digital Marketting post for IEEE R10 Newsletter.",
+    "deviantart_link": "",
+    "category_name": "illustration",
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Illustrations/Finalized_Newsletter.png",
+    "": "",
+    "__1": ""
+  },
+  {
+    "name": "Finishing Up",
+    "category": "Digital Marketting Post",
+    "description": "Digital Marketting post for IEEE R10 Newsletter.",
+    "deviantart_link": "",
+    "category_name": "illustration",
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Illustrations/Finishing_Up.png",
+    "": "",
+    "__1": ""
+  },
+  {
+    "name": "Screening In Progress",
+    "category": "Digital Marketting Post",
+    "description": "Digital Marketting post for IEEE R10 Newsletter.",
+    "deviantart_link": "",
+    "category_name": "illustration",
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Illustrations/Screening In Progress.png",
+    "": "",
+    "__1": ""
+  },
+  {
+    "name": "IEEE R10 Newsletter - Logo",
+    "category": "Logo",
+    "description": "IEEE R10 Newsletter Logo.",
+    "deviantart_link": "",
+    "category_name": "illustration",
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Illustrations/IEEE R10 Newsletter - Logo.png",
+    "": "",
+    "__1": ""
+  },
+  {
+    "name": "IEEE R10 Today - Logo",
+    "category": "Logo",
+    "description": "IEEE R10 Today Logo.",
+    "deviantart_link": "",
+    "category_name": "illustration",
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Illustrations/IEEE R10 Today - Logo.png",
+    "": "",
+    "__1": ""
+  },
+  {
+    "name": "IEEE R10 Today [Black] - Logo",
+    "category": "Logo",
+    "description": "IEEE R10 Today Black Logo.",
+    "deviantart_link": "",
+    "category_name": "illustration",
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Illustrations/IEEE R10 Today [Black] - Logo.png",
+    "": "",
+    "__1": ""
+  },
+  {
+    "name": "IEEE R10 Today [White] - Logo",
+    "category": "Logo",
+    "description": "IEEE R10 Today White Logo.",
+    "deviantart_link": "",
+    "category_name": "illustration",
+    "link_to_screenshot": "/assets/Articles/Graphics Design/Illustrations/IEEE R10 Today [White] - Logo.png",
+    "": "",
+    "__1": ""
   }
 ]
