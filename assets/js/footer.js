@@ -10,5 +10,10 @@ document.getElementById("footer").innerHTML =
     </ul>
     <ul class="copyright"><li>2020 &copy; Md Shadman Tajwar Haque</li>
     </ul>
+    <ul class="text-center" style="font-size:1.4rem;">
+    <li>
+        <a href="https://www.tajwar.ml/blog/" >View Blog <i class="fas fa-rss-square"></i></a>
+    </li>
+    </ul>
     </div>
 `
