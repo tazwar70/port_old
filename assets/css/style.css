@@ -11,16 +11,17 @@
 
 :root{
   --body_color:rgb(68, 68, 68);/* #444444 */
-  --link_color: rgb(52, 183, 167);/* #34b7a7 */
-  --link_color_hover: rgb(81, 205, 190);/* #51cdbe */
+  --link_color: rgb(13, 153, 137);/* #34b7a7 */
+  --link_color_hover: rgb(14, 194, 173);/* #51cdbe */
   --header_bg:#333;
   --header_logo_a:white;
   --nav_menu_a:white;
-  --resume-title:#18271d;
+  --resume-title:#333;
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+      font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
   color: var(--body_color);
 }
 
@@ -34,7 +35,8 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+      font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 #main {
@@ -188,7 +190,8 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--nav_menu_a);
   transition: 0.3s;
   font-size: 15px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-weight: 600;
 }
 
@@ -253,8 +256,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu .drop-down > a:after {
   content: "\ea99";
-  font-family: IcoFont;
-  padding-left: 5px;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Ubuntu', sans-serif;  padding-left: 5px;
 }
 
 .nav-menu .drop-down .drop-down ul {
@@ -274,8 +277,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu .drop-down .drop-down > a:after {
   content: "\eaa0";
-  font-family: IcoFont;
-  position: absolute;
+  font-family: 'Roboto', sans-serif;
+
+  font-family: 'Ubuntu', sans-serif;  position: absolute;
   right: 15px;
 }
 
@@ -349,8 +353,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav .drop-down > a:after {
   content: "\ea99";
-  font-family: IcoFont;
-  padding-left: 10px;
+  font-family: 'Roboto', sans-serif;
+
+  font-family: 'Ubuntu', sans-serif;  padding-left: 10px;
   position: absolute;
   right: 15px;
 }
@@ -459,7 +464,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-about {
-  font-family: "Raleway", sans-serif;
+      font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
   text-transform: uppercase;
   font-weight: 600;
   font-size: 12px;
@@ -563,7 +569,8 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Raleway", sans-serif;
+      font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -639,8 +646,9 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #222222;
+  font-family: 'Roboto', sans-serif;
+
+  font-family: 'Ubuntu', sans-serif;  color: #222222;
 }
 
 .skills .progress .skill .val {
@@ -671,7 +679,8 @@ section {
 .facts .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Raleway", sans-serif;
+      font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
 }
 
@@ -774,8 +783,9 @@ section {
   line-height: 1.5rem;
   font-size: 1.5rem;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #1d685f;
+  font-family: 'Roboto', sans-serif;
+
+  font-family: 'Ubuntu', sans-serif;  color: #1d685f;
   margin-bottom: 10px;
 }
 .resume .resume-item h3 {
@@ -783,8 +793,9 @@ section {
   font-size: 1.2rem;
   font-style: italic;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #1d685f;
+  font-family: 'Roboto', sans-serif;
+
+  font-family: 'Ubuntu', sans-serif;  color: #1d685f;
   margin-bottom: 10px;
 }
 
@@ -1321,4 +1332,9 @@ section {
 
 .fixed-top{
   display: block;
+}
+
+.resume-duration{
+  font-style: italic;
+  color: var(--link_color);
 }
