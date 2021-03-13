@@ -21,8 +21,19 @@ document.getElementById('testimonials').innerHTML=
         </div>
 
         <div class="testimonial-item">
+        <img src="/assets/Featured/Cognitive Class - Machine Learning with Python.jpg" class="testimonial-img" alt="">
+        <h3><a href="https://courses.cognitiveclass.ai/certificates/f158c495cd844d039d6257bc099821fc">Machine Learning with Python</a></h3>
+        <h4>Online Course<br>by<br></h4>
+        <p>
+          <!-- <i class="bx bxs-quote-alt-left quote-icon-left"></i> -->
+          Cognitive Class
+          <!-- <i class="bx bxs-quote-alt-right quote-icon-right"></i> -->
+        </p>
+      </div>
+
+        <div class="testimonial-item">
           <img src="/assets/Featured/Cognitive Class - Data Analysis with Python.jpg" class="testimonial-img" alt="">
-          <h3>Data Analysis with Python</h3>
+          <h3><a href="https://courses.cognitiveclass.ai/certificates/4c2c9520b3934320ac0def4864047420">Data Analysis with Python</a></h3>
           <h4>Online Course<br>by<br></h4>
           <p>
             <!-- <i class="bx bxs-quote-alt-left quote-icon-left"></i> -->
@@ -31,20 +42,11 @@ document.getElementById('testimonials').innerHTML=
           </p>
         </div>
 
-        <div class="testimonial-item">
-          <img src="/assets/Featured/Cognitive Class - Machine Learning with Python.jpg" class="testimonial-img" alt="">
-          <h3>Machine Learning with Python</h3>
-          <h4>Online Course<br>by<br></h4>
-          <p>
-            <!-- <i class="bx bxs-quote-alt-left quote-icon-left"></i> -->
-            Cognitive Class
-            <!-- <i class="bx bxs-quote-alt-right quote-icon-right"></i> -->
-          </p>
-        </div>
+
 
         <div class="testimonial-item">
           <img src="/assets/Featured/Cognitive Class - Python 101 for Data Science.jpg" class="testimonial-img" alt="">
-          <h3>Python 101 for Data Science</h3>
+          <h3><a href="https://courses.cognitiveclass.ai/certificates/877d2ba19d0040789d44d7e5658ca42c">Python 101 for Data Science</a></h3>
           <h4>Online Course<br>by<br></h4>
           <p>
             <!-- <i class="bx bxs-quote-alt-left quote-icon-left"></i> -->
@@ -55,7 +57,7 @@ document.getElementById('testimonials').innerHTML=
 
         <div class="testimonial-item">
           <img src="/assets/Featured/Coursera - Data Science Math - Duke University-1.jpg" class="testimonial-img" alt="">
-          <h3>Data Science Math Skills</h3>
+          <h3><a href="https://www.coursera.org/account/accomplishments/verify/7XC4255FCHXF">Data Science Math Skills</a></h3>
           <h4>Online Course<br>by<br></h4>
           <p>
             <!-- <i class="bx bxs-quote-alt-left quote-icon-left"></i> -->
@@ -66,7 +68,7 @@ document.getElementById('testimonials').innerHTML=
 
         <div class="testimonial-item">
           <img src="/assets/Featured/Coursera - Computer Vision Basics - UofBuffalo-1.jpg" class="testimonial-img" alt="">
-          <h3>Computer Vision Basics</h3>
+          <h3><a href="https://www.coursera.org/account/accomplishments/verify/U6T6SXRN3PCF">Computer Vision Basics</a></h3>
           <h4>Online Course<br>by<br></h4>
           <p>
             <!-- <i class="bx bxs-quote-alt-left quote-icon-left"></i> -->
