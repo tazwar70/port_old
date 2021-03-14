@@ -44,7 +44,21 @@ document.getElementById('testimonials').innerHTML=
 
 
 
-        <div class="testimonial-item">
+
+
+       
+
+      </div>
+
+      <div id="btn-ctn" class="text-center" style="padding-bottom: 1rem;">
+      <a href="assets/Md Shadman Tajwar Haque - Resume.pdf" class="btn-about btn-lg" style="font-size:1rem;">View Resume</a>
+    </div>
+
+    </div>
+`
+
+/**
+ *         <div class="testimonial-item">
           <img src="/assets/Featured/Cognitive Class - Python 101 for Data Science.jpg" class="testimonial-img" alt="">
           <h3><a href="https://courses.cognitiveclass.ai/certificates/877d2ba19d0040789d44d7e5658ca42c">Python 101 for Data Science</a></h3>
           <h4>Online Course<br>by<br></h4>
@@ -76,14 +90,6 @@ document.getElementById('testimonials').innerHTML=
             <!-- <i class="bx bxs-quote-alt-right quote-icon-right"></i> -->
           </p>
         </div>
-
-       
-
-      </div>
-
-      <div id="btn-ctn" class="text-center" style="padding-bottom: 1rem;">
-      <a href="assets/Md Shadman Tajwar Haque - Resume.pdf" class="btn-about btn-lg" style="font-size:1rem;">View Resume</a>
-    </div>
-
-    </div>
-`
+ * 
+ * 
+ */

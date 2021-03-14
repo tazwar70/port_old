@@ -18,7 +18,6 @@
   --nav_menu_a:white;
   --resume-title:#333;
 }
-
 body {
       font-family: 'Roboto', sans-serif;
     font-family: 'Ubuntu', sans-serif;
@@ -433,7 +432,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 60vh;
+  height: 40vh;
   background: url("https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2155&q=80") top right;
   background-size: cover;
   
@@ -469,9 +468,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 22px;
 }
 
-#hero .btn-about, #btn-ctn .btn-about {
-      font-family: 'Roboto', sans-serif;
-    font-family: 'Ubuntu', sans-serif;
+#hero .btn-about, #btn-ctn .btn-about, .card .btn-about {
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   text-transform: uppercase;
   font-weight: 600;
   font-size: 12px;
@@ -1358,3 +1357,7 @@ display: none;
 #sc-1:hover #sc-ic-1, #sc-2:hover #sc-ic-2, #sc-3:hover #sc-ic-3{
   display: initial;
 } */
+.card-img:hover{
+  scale: 1.01;
+}
+
