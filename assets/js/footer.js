@@ -12,7 +12,7 @@ document.getElementById("footer").innerHTML =
     </ul>
     <ul class="text-center" style="font-size:1.4rem;">
     <li>
-        <a href="https://www.tajwar.ml/blog/" >View Blog <i class="fas fa-rss-square"></i></a>
+        <a href="https://projects.tajwar.ml" >View Projects </a><i class="fas fa-rss-square" style="color:#333;"></i>
     </li>
     </ul>
     </div>
